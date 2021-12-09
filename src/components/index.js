@@ -5,3 +5,7 @@ export { Footer } from './footer';
 export { Accordion } from './accordion';
 export { OptForm } from './opt-form';
 export { Form } from './form';
+export { Card } from './card';
+export { Profiles } from './profiles';
+export { Loading } from './loading';
+export { Player } from './player';
