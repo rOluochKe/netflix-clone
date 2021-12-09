@@ -1,0 +1,107 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Jumbotron /> renders the <Jumbotron /> with populated data 1`] = `
+<div
+  class="sc-kfPuZi gRgAzI"
+>
+  <div
+    class="sc-dlVxhl eriAhv"
+  >
+    <div
+      class="sc-fFeiMQ fTMito"
+      direction="row"
+    >
+      <div
+        class="sc-bkkeKt hGQLgI"
+      >
+        <h1
+          class="sc-ieecCq edVWjw"
+        >
+          Enjoy on your TV.
+        </h1>
+        <h2
+          class="sc-dJjYzT haoCbF"
+        >
+          Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.
+        </h2>
+      </div>
+      <div
+        class="sc-bkkeKt hGQLgI"
+      >
+        <img
+          alt="Tiger King on Netflix"
+          class="sc-hGPBjI hYDkzE"
+          data-testid="1-jumbo-image"
+          src="/images/misc/home-tv.jpg"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="sc-dlVxhl eriAhv"
+  >
+    <div
+      class="sc-fFeiMQ fTMito"
+      direction="row"
+    >
+      <div
+        class="sc-bkkeKt hGQLgI"
+      >
+        <h1
+          class="sc-ieecCq edVWjw"
+        >
+          Download your programmes to watch on the go.
+        </h1>
+        <h2
+          class="sc-dJjYzT haoCbF"
+        >
+          Save your data and watch all your favourites offline.
+        </h2>
+      </div>
+      <div
+        class="sc-bkkeKt hGQLgI"
+      >
+        <img
+          alt="Watch on mobile"
+          class="sc-hGPBjI hYDkzE"
+          data-testid="2-jumbo-image"
+          src="/images/misc/home-mobile.jpg"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="sc-dlVxhl eriAhv"
+  >
+    <div
+      class="sc-fFeiMQ fTMito"
+      direction="row"
+    >
+      <div
+        class="sc-bkkeKt hGQLgI"
+      >
+        <h1
+          class="sc-ieecCq edVWjw"
+        >
+          Watch everywhere.
+        </h1>
+        <h2
+          class="sc-dJjYzT haoCbF"
+        >
+          Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.
+        </h2>
+      </div>
+      <div
+        class="sc-bkkeKt hGQLgI"
+      >
+        <img
+          alt="Money Heist on Netflix"
+          class="sc-hGPBjI hYDkzE"
+          data-testid="3-jumbo-image"
+          src="/images/misc/home-imac.jpg"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
